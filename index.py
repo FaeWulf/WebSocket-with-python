@@ -1,5 +1,5 @@
 # I know my code stuff suck :), my only purpose to make it "suck" is to avoid spoon-feeding
-# you will have to search and research a hell lot :). Thanks me later...
+# you will have to search and research a hell lot :). Thank me later...
 
 import socket
 import config
